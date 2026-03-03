@@ -30,10 +30,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaeem%20Malik-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaeem-malik-1b6608338/)
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
 
 <!--
 **Zaeem-Malik/Zaeem-Malik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
