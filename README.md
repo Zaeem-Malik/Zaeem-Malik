@@ -1,4 +1,4 @@
-# Hello, I'm Zae em.
+# Hello, I'm Zaeem.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaeem%20Malik-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaeem-malik-1b6608338/)
 
 Brief Introduction
