@@ -3,7 +3,7 @@
 
 Brief Introduction
 
-I am graduating this May and seeking an oppertunity to futher my IT/cybersecurity career.
+I am graduating this May and seeking an oppertunity to futher my IT/cybersecurity career. 
 
 ## Objective
 Objective
