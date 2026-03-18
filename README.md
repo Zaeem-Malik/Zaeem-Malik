@@ -54,9 +54,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Badges
+<a href="https://www.credly.com/badges/31c0a6e2-3fe1-4f1f-a41c-9e3cc9638a5d">
+  <img src="https://i.imgur.com/uSt9p7s.png" width="60"/>
+</a>
+
 
 
 
