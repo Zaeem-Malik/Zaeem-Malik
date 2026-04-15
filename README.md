@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Managing 1,000+ users via active directory    | <a href="https://github.com/Zaeem-Malik/Enterprise-Active-Directory-Home-Lab"> Enterprise Active Directory Home Lab </a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Managing IT support tickets                   | <a href="https://github.com/Zaeem-Malik/IT-Helpdesk-Ticketing-Lab">IT Helpdesk Ticketing Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
