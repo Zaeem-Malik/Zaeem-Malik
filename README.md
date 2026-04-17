@@ -6,21 +6,18 @@ Brief Introduction
 I am graduating this May and seeking an oppertunity to futher my IT/cybersecurity career. 
 
 ## Objective
-Objective
+
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a IAM engineeer. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Managing 1,000+ users via active directory    | <a href="https://github.com/Zaeem-Malik/Enterprise-Active-Directory-Home-Lab"> Enterprise Active Directory Home Lab </a>|
 | Managing IT support tickets                   | <a href="https://github.com/Zaeem-Malik/IT-Helpdesk-Ticketing-Lab">IT Helpdesk Ticketing Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
@@ -39,6 +36,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/Jira%20Service%20Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 
+### Operating System
+<div>
+    <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
+    <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white" />
+     <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+</div>
 
 ### Cloud
 <div>
