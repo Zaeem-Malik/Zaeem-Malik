@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Skill	Associated ProjectActive Directory User & Group Management (1,000+ users)   | <a href="https://github.com/Zaeem-Malik/Enterprise-Active-Directory-Home-Lab"> Enterprise Active Directory Home Lab </a>|
+| Active Directory User & Group Management (1,000+ users)   | <a href="https://github.com/Zaeem-Malik/Enterprise-Active-Directory-Home-Lab"> Enterprise Active Directory Home Lab </a>|
 | IT Support Ticket Management & Troubleshooting| <a href="https://github.com/Zaeem-Malik/IT-Helpdesk-Ticketing-Lab">IT Helpdesk Ticketing Lab</a>|
 
 
