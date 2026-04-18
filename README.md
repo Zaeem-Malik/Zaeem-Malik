@@ -64,6 +64,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://i.imgur.com/uSt9p7s.png" width="60"/>
 </a>
 
+<a href="https://www.credly.com/badges/5797f269-de38-4663-81fe-f9761ba0c020/public_url">
+  <img src="https://images.credly.com/size/110x110/images/2859c37a-015b-40a6-b570-4bdd7e849b05/image.png" width="60"/>
+</a>
 
 
 
