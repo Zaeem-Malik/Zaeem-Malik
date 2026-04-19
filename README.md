@@ -36,6 +36,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/Jira%20Service%20Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 
+### Programming Languages
+<div>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff" />
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
+
 ### Operating System
 <div>
     <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
