@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaeem%20Malik-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaeem-malik-1b6608338/)
 
 Brief Introduction 
-
+ 
 I am graduating this May and seeking an oppertunity to futher my IT/cybersecurity career.  
 
 ## Objective
