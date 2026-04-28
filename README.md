@@ -53,7 +53,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ### Cloud
-<div>
+<div> 
     <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white " />
     <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
